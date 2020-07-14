@@ -1,0 +1,16 @@
+{
+  "name": "cronoku",
+  "version": "1.0.0",
+  "description": "Uth heroku bhosdike",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neilblaze",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.6.0",
+    "dotenv": "^6.2.0"
+  }
+}
